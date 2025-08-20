@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+    font-size: 24px;
+    font-family: Arial, sans-serif;
+}
+header, footer{
+    background-color: darkkhaki;
+    padding: 8px;
+}
+section{
+    background-color: lightgreen;
+    padding: 10px;
+    border: 3px solid  darkkhaki;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+}
+#section1{
+    display: flex;
+    justify-content: space-between;
+}
+#section1 p strong {
+    font-size: 30px;
+}
+#section2 img{
+    width: 400px;
+    height: auto;
+    border: 1px solid black
+}
